@@ -44,7 +44,7 @@ while True:
         break
     else:
         print("Invalid choice. Please try again.")
-[2/9, 11:15 AM] Rajakumari...🤗💕: --- List ADT Operations ---
+        List ADT Operations ---
 1. Insert
 2. Delete
 3. Display
